@@ -1,6 +1,6 @@
-### Understanding Containers
+# Understanding Containers
 
-# Three Important Things
+### Three Important Things
 Linux namespaces-> controls what you can see <br />
 Changing root <br />
 Control groups -> controls what you can use <br />
